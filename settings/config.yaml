@@ -1,0 +1,17 @@
+---
+
+wlan: wlan0
+
+default:
+    cookie: ASP.NET_SessionId=mm2wobd0bviwdwhqnzjtr52r
+    token: raspberrySRE91bFHtBLqZVV6OVzsR
+
+hot_sos:
+    url: int.m-tech.com
+    login: auto1234
+    password: hotsos98
+    origin: https://int.m-tech.com
+
+device:
+    name: RasBerry+SRE+built+for+x86
+    id: 11d1sn3y6f3c60f777
